@@ -1,1 +1,3 @@
-# Superstore-sales-dashboard_PowerBi
+
+
+Various datasets are used to create dashboards using PowerBi
